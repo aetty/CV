@@ -1,0 +1,166 @@
+
+head{display: none;}
+
+body{margin: 0;
+  text-align: center;
+font-family: 'Montserrat', sans-serif;}
+
+h1{
+  font-size: 5.625rem;
+margin: 50px auto 10px auto;
+  color: #66BFBF;
+font-family: 'Sacramento', cursive;}
+
+.ERP{font-size: 1.5rem;
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+font-weight: normal;}
+
+h2{font-family: 'Play', sans-serif;
+color: #66BFBF;}
+
+h3{font-family: 'Play', sans-serif;
+color: #11999E;}
+
+
+/******* Top **********/
+
+.top{background-color:#EAF6F6;
+position: relative;
+padding-top: 100px;
+line-height: 1
+}
+.myskills{color: #66BFBF;
+text-align: center;}
+
+/******* middle**********/
+.profile{
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  line-height: 1.5;
+}
+.Arthurprofile{
+  margin-right: 30px;
+}
+.hr1{margin-bottom: 40px;
+border: dotted #EAF6F6 6px;
+width: 4%;
+border-bottom: none;
+margin: 40px auto;}
+
+
+.skill-row{
+  position: relative;
+  bottom: 10px;
+  width: 50%;
+  margin: 50px auto 20px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.design{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.computer{
+  width: 20%;
+  float: right;
+  margin-left:30px;
+}
+.business{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.consultant{margin-left: 125px;}
+
+/******* Bottom **********/
+
+.bottom-container{background-color: #66BFBF;
+padding: 20px 0 20px;}
+
+
+.top-cloud{position: absolute;
+right: 200px;
+top: 50px}
+
+.bottom-cloud{position: absolute;
+left: 200px;
+bottom:300px;
+}
+
+.contact-me{margin: auto;
+  position: relative;
+bottom: 20px;
+line-height: 3;}
+
+
+.btn{
+	-moz-box-shadow: 0 0 0 -5px #66bfbf;
+	-webkit-box-shadow: 0 0 0 -5px #66bfbf;
+	box-shadow: 0 0 0 -5px #66bfbf;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #66bfbf), color-stop(1, #66bfbf) );
+	background:-moz-linear-gradient( center top, #66bfbf 5%, #66bfbf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#66bfbf', endColorstr='#66bfbf');
+	background-color:#66bfbf;
+	-webkit-border-top-left-radius:19px;
+	-moz-border-radius-topleft:19px;
+	border-top-left-radius:19px;
+	-webkit-border-top-right-radius:19px;
+	-moz-border-radius-topright:19px;
+	border-top-right-radius:19px;
+	-webkit-border-bottom-right-radius:19px;
+	-moz-border-radius-bottomright:19px;
+	border-bottom-right-radius:19px;
+	-webkit-border-bottom-left-radius:19px;
+	-moz-border-radius-bottomleft:19px;
+	border-bottom-left-radius:19px;
+text-indent:0;
+	border:1px solid #66bfbf;
+	display:inline-block;
+	color:#eaf6f6;
+	font-family: 'Montserrat', sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:-7px 1px 0 #66bfbf;
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #66bfbf), color-stop(1, #66bfbf) );
+	background:-moz-linear-gradient( center top, #66bfbf 5%, #66bfbf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#66bfbf', endColorstr='#66bfbf');
+	background-color:#66bfbf;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.hr2{margin-bottom: 40px;
+border: dotted #EAF6F6 6px;
+width: 4%;
+border-bottom: none;
+margin: 40px auto;}
+
+
+
+
+.footer-link {color: #27496d;
+text-decoration: none;
+display: inline-block;
+margin: 0 0 0 1rem;}
+
+.footer-link:hover {color: #EAF6F6;}
+
+
+.right{font-size: 12px;
+color: #EAF6F6;}
+
+.icons8{font-family: 'Montserrat', sans-serif;
+text-decoration: none;}
+.icons8:hover {color: #EAF6F6;}
